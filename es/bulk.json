@@ -1,0 +1,11 @@
+{ "index": { "_id": "1" } }
+{ "name": "Модульний диван", "category": "Дивани", "price": 999, "material": "шкіра", "color": "сірий", "attributes": { "seats": 2, "shape": "модульний" } }
+{ "index": { "_id": "2" } }
+{ "name": "Класичний диван", "category": "Дивани", "price": 19999, "material": "шкіра", "color": "бежевий", "attributes": { "seats": 3, "shape": "класичний" } }
+{ "index": { "_id": "3" } }
+{ "name": "Стіл", "category": "Столи", "price": 8999, "material": "дуб", "color": "коричневий", "attributes": { "shape": "прямокутний" } }
+{ "index": { "_id": "4" } }
+{ "name": "Косметичний стул", "category": "Стільці", "price": 1499, "material": "шкіра", "color": "натуральна", "attributes": { "seat_height": 45, "width": 45, "depth": 40 } }
+{ "index": { "_id": "5" } }
+{ "name": "Шкаф-купе", "category": "Шафи", "price": 15999, "material": "ламінат", "color": "білий", "attributes": { "length": 200, "depth": 60, "height": 220 } }
+
